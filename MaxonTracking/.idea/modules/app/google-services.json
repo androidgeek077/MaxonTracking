@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "935484978282",
+    "project_id": "maxontracking",
+    "storage_bucket": "maxontracking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935484978282:android:61008c08b051e992eb4613",
+        "android_client_info": {
+          "package_name": "app.mustansar.maxontracking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935484978282-a2pu178jakp2568al7ol42nabfkddseu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "app.mustansar.maxontracking",
+            "certificate_hash": "c87a720b1c02de812afe50dc3a63f5d3cfd44bd2"
+          }
+        },
+        {
+          "client_id": "935484978282-s28gb4pj8md773v2avqu1t066vgbs143.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBn-41wgQoLPwO7h8HWbrP8I8vTwDrjA_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935484978282-s28gb4pj8md773v2avqu1t066vgbs143.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

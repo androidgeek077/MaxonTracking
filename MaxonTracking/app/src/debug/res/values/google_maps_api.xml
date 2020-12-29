@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=C8:7A:72:0B:1C:02:DE:81:2A:FE:50:DC:3A:63:F5:D3:CF:D4:4B:D2%3Bapp.mustansar.maxontracking
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    app.mustansar.maxontracking
+
+    SHA-1 certificate fingerprint:
+    C8:7A:72:0B:1C:02:DE:81:2A:FE:50:DC:3A:63:F5:D3:CF:D4:4B:D2
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyC8dR4cshNmir7r2ocdFZ67a_6pqtEAPHw</string>
+</resources>
